@@ -6,7 +6,7 @@ from config import BOT_NAME as bn
 @Client.on_message(filters.command("start") & filters.private & ~filters.channel)
 async def start(_, message: Message):
     await message.reply_text(
-        f"""<b>ꃅꍏꀤꀤ ꁅꀎꌩꌗ 👋🏻🦇 {message.from_user.first_name} Perkenalkan Aku 𓊈ᴄʀʏꜱᴛᴀʟ ᴍᴜꜱɪᴄ𓊉\n
+        f"""<b>🖐️Haii.. {message.from_user.first_name} Welcome to 𓊈virtual ᴍᴜꜱɪᴄ𓊉\n
 𝘈𝘒𝘜 𝘈𝘋𝘈𝘓𝘈𝘏 𝘉𝘖𝘛 𝘔𝘜𝘚𝘐𝘒 𝘛𝘌𝘓𝘌𝘎𝘙𝘈𝘔 𝘠𝘈𝘕𝘎 𝘋𝘐 𝘒𝘌𝘔𝘉𝘈𝘕𝘎𝘒𝘈𝘕 𝘖𝘓𝘌𝘏 : [IKYY](https://t.me/boyfriendnice)
 𝘈𝘗𝘈𝘉𝘐𝘓𝘈 𝘐𝘕𝘎𝘐𝘕 𝘔𝘌𝘕𝘎𝘎𝘜𝘕𝘈𝘒𝘈𝘕 𝘈𝘒𝘜 𝘐𝘕𝘝𝘐𝘛𝘌 𝘈𝘒𝘜 𝘋𝘈𝘕 𝘈𝘚𝘐𝘚𝘚𝘛𝘈𝘕𝘛 𝘕𝘠𝘈 𝘓𝘈𝘓𝘜 𝘑𝘈𝘋𝘐𝘒𝘈𝘕 𝘈𝘋𝘔𝘐𝘕 𝘒𝘌𝘋𝘜𝘈𝘕𝘠𝘈 𝘈𝘎𝘈𝘙 𝘉𝘐𝘚𝘈 𝘉𝘌𝘙𝘑𝘈𝘓𝘈𝘕 𝘋𝘌𝘕𝘎𝘈𝘕 𝘓𝘈𝘕𝘊𝘈𝘙, 𝘑𝘐𝘒𝘈 𝘈𝘋𝘈 𝘒𝘌𝘕𝘋𝘈𝘓𝘈 𝘉𝘐𝘚𝘈 𝘊𝘏𝘈𝘛 𝘖𝘞𝘕𝘌𝘙𝘕𝘠𝘈.
 ┏━━━━━━━━━━━━━━
@@ -31,7 +31,7 @@ async def start(_, message: Message):
                         "👥Official Group", url="https://t.me/chvirtual62"
                     ),
                     InlineKeyboardButton(
-                        "📢Official Channel", url="https://t.me/humangabutguys") 
+                        "📢Official Channel", url="https://t.me/chvirtual62") 
                   ],[
                     InlineKeyboardButton(
                         "🍀Instagram", url="https://www.instagram.com/ikyyy_35/"
