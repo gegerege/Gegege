@@ -512,7 +512,7 @@ async def play(_, message: Message):
                 ],                     
                 [
                     InlineKeyboardButton(
-                        "Group", url="https://t.me/remaja_virtual62"
+                        "Owner", url="https://t.me/boyfriendnice"
                     )
                 ],
                 [       
@@ -648,7 +648,7 @@ async def deezer(client: Client, message_: Message):
                 ],                     
                 [
                     InlineKeyboardButton(
-                        "Group", url="https://t.me/remaja_virtual62"
+                        "Owner", url="https://t.me/boyfriendnice"
                     )
                 ],
                 [       
@@ -784,7 +784,7 @@ async def jiosaavn(client: Client, message_: Message):
                 ],                     
                 [
                     InlineKeyboardButton(
-                        "Group", url="https://t.me/remaja_virtual62"
+                        "Owner", url="https://t.me/boyfriendnice"
                     )
                 ],
                 [       
